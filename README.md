@@ -53,8 +53,8 @@ SIGffRid 1.0 (command line version) needs:
 install YAML
 
 using CPAN (cpan install <module>)
-(you probably will need to run:
-- sudo cpan -f -i XML:DOM::XPath (to force install) to avoid some problem with BioPerl installation (due to testing failures)
+- XML::DOM::XPath
+(you probably will need to run ```sudo cpan -f -i XML:DOM::XPath``` (to force install) to avoid some problem with BioPerl installation (due to testing failures))
 - BioPerl
 - SeqIO                (to extract data from GenBank files)
 - IPC::System::Simple  (to run system command)
