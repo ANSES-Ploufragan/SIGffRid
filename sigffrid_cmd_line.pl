@@ -589,7 +589,7 @@ if($b_test)
 		$gb_f2,
 		$MBGD_f)
     {
-	-e $_ or die "$prog_tag [Error] $_ file/dir does not exist for TEST, have you moved it?, line ".__LINE__."\n";
+        -e $_ or die "$prog_tag [Error] $_ file/dir does not exist for TEST, have you moved it?, line ".__LINE__."\n";
     }
     
     my $short_name_gb_f1 = short_name($gb_f1);
@@ -636,7 +636,7 @@ else
 	    $MBGD_f,
 	    $sigffrid_res_dir)
     {
-	-e $_ or die "$prog_tag [Error] $_ file/directory does not exist, line ".__LINE__."\n";
+        -e $_ or die "$prog_tag [Error] $_ file/directory does not exist, line ".__LINE__."\n";
     }
     
     my $short_name_gb_f1 = short_name($gb_f1);
@@ -649,9 +649,9 @@ else
     # formatting sequences for bact1 and bact2 in parallel
     # bact1
     $cmd = join(' ', 	"perl ${SIGffRID_scripts_dir}FextractSeqFeaturesFromGbUsingBioPerl.pl",
-		'-id_bact', $id_bact1,
-		'-gb_f'   , $gb_f1,
-		'-res_dir', $sigffrid_res_dir);
+                '-id_bact', $id_bact1,
+                '-gb_f'   , $gb_f1,
+                '-res_dir', $sigffrid_res_dir);
     $prefix = 'FextractSeqFeaturesFromGbUsingBioPerl_'.$id_bact1.'_'.$short_name_gb_f1;
     
     print "$prog_tag cmd:$cmd, line ".__LINE__."\n";
@@ -661,9 +661,9 @@ else
     
     # bact2
     $cmd = join(' ', 	"perl ${SIGffRID_scripts_dir}FextractSeqFeaturesFromGbUsingBioPerl.pl",
-		'-id_bact', $id_bact2,
-		'-gb_f'   , $gb_f2,
-		'-res_dir', $sigffrid_res_dir);
+                '-id_bact', $id_bact2,
+                '-gb_f'   , $gb_f2,
+                '-res_dir', $sigffrid_res_dir);
     $prefix = 'FextractSeqFeaturesFromGbUsingBioPerl_'.$id_bact2.'_'.$short_name_gb_f2;
     
     print "$prog_tag cmd:$cmd, line ".__LINE__."\n";
@@ -706,27 +706,27 @@ else
     my $markov_expected_out_f2 = undef;
     if($gb_f1 =~ /([^\/]+)\.(?:embl|gbk|gb|txt|fasta|fa|GBK|fsa|fa\.gz)$/)
     {
-	$markov_expected_out_f1 = join('', $sigffrid_res_dir,'markov_mod_order',$MM_order,'_',$1,'.txt');	
+        $markov_expected_out_f1 = join('', $sigffrid_res_dir,'markov_mod_order',$MM_order,'_',$1,'.txt');	
     }
     else
     {
-	die "$prog_tag [Error] Unrecognized gb file: $gb_f1, line ".__LINE__."\n";
+        die "$prog_tag [Error] Unrecognized gb file: $gb_f1, line ".__LINE__."\n";
     }
     if($gb_f2 =~ /([^\/]+)\.(?:embl|gbk|gb|txt|fasta|fa|GBK|fsa|fa\.gz)$/)
     {
-	$markov_expected_out_f2 = join('', $sigffrid_res_dir,'markov_mod_order',$MM_order,'_',$1,'.txt');	
+        $markov_expected_out_f2 = join('', $sigffrid_res_dir,'markov_mod_order',$MM_order,'_',$1,'.txt');	
     }
     else
     {
-	die "$prog_tag [Error] Unrecognized gb file: $gb_f2, line ".__LINE__."\n";
+        die "$prog_tag [Error] Unrecognized gb file: $gb_f2, line ".__LINE__."\n";
     }
     
     # bact1
     $cmd = join(' ', 	"perl ${SIGffRID_scripts_dir}FmarkovBackgroundSeveralBacteria4.pl",
-		$MM_order,
-		$gb_f1,
-		$sigffrid_res_dir,
-		0);
+                $MM_order,
+                $gb_f1,
+                $sigffrid_res_dir,
+                0);
     $prefix = 'FmarkovBackgroundSeveralBacteria4_'.$id_bact1;
     print "$prog_tag cmd:$cmd, line ".__LINE__."\n";
     if($b_sge)     {  push @pids, run_capture::run_capture_sge_prefix(  $cmd, __LINE__, $prefix);       }
@@ -736,10 +736,10 @@ else
     
     # bact2
     $cmd = join(' ', 	"perl ${SIGffRID_scripts_dir}FmarkovBackgroundSeveralBacteria4.pl",
-		$MM_order,
-		$gb_f2,
-		$sigffrid_res_dir,
-		0);
+                $MM_order,
+                $gb_f2,
+                $sigffrid_res_dir,
+                0);
     $prefix = 'FmarkovBackgroundSeveralBacteria4_'.$id_bact2;
     print "$prog_tag cmd:$cmd, line ".__LINE__."\n";
     if($b_sge)     {  push @pids, run_capture::run_capture_sge_prefix(  $cmd, __LINE__, $prefix);            }
@@ -748,7 +748,7 @@ else
     
     wait_processes_finished(\@pids);
     print(sprintf("%-${display_width_before_column_ok}s", "$prog_tag Markov models computation for $id_bact1 and $id_bact2, ran").": ok\n");
-
+    
     # verif that output files exist, check syntax
     foreach($markov_expected_out_f1, $markov_expected_out_f1)
     {
@@ -762,27 +762,27 @@ else
     -e $RMES_res_dir or mkdir $RMES_res_dir;
 
     # expected RMES output files
-    my $RMES_out_expected_f1 = $RMES_res_dir.'RMES_'.$id_bact1;
-    my $RMES_out_expected_f2 = $RMES_res_dir.'RMES_'.$id_bact2;
-    
+    my $RMES_out_expected_f1 = "${RMES_res_dir}mots_plus_comp_sans_palind_${id_bact1}_rmes_8_3.txt";
+    my $RMES_out_expected_f2 = "${RMES_res_dir}mots_plus_comp_sans_palind_${id_bact2}_rmes_8_3.txt";
+
     # bact1
     $cmd = join(' ', 	"perl ${SIGffRID_scripts_dir}RMES/Frmes_fam_select_gauss_poiss.pl",
-		$id_bact1, # suffix for created r'mes files
-		$merged_upstr_f1, # name of the sequence file
-		# TO DO: CHANGE LOCATION OF RMES RES
-		$RMES_res_dir);
+                $id_bact1, # suffix for created r'mes files
+                $merged_upstr_f1, # name of the sequence file
+                # TO DO: CHANGE LOCATION OF RMES RES
+                $RMES_res_dir);
     $prefix = 'Frmes_fam_select_gauss_poiss_'.$id_bact1;
     print "$prog_tag cmd:$cmd, line ".__LINE__."\n";
     if($b_sge)     {  push @pids, run_capture::run_capture_sge_prefix(  $cmd, __LINE__, $prefix);             }
     elsif($b_slurm){  push @pids, run_capture::run_capture_slurm_prefix($cmd, __LINE__, $prefix,  $ram_rmes); }
     else           {  push @pids, run_capture::run_capture_prefix(      $cmd, __LINE__, $prefix);             } 
-    
+
     # bact2
     $cmd = join(' ', 	"perl ${SIGffRID_scripts_dir}RMES/Frmes_fam_select_gauss_poiss.pl",
-		$id_bact2, # suffix for created r'mes files
-		$merged_upstr_f2, # name of the sequence file
-		# TO DO: CHANGE LOCATION OF RMES RES
-		$RMES_res_dir);
+                $id_bact2, # suffix for created r'mes files
+                $merged_upstr_f2, # name of the sequence file
+                # TO DO: CHANGE LOCATION OF RMES RES
+                $RMES_res_dir);
     $prefix = 'Frmes_fam_select_gauss_poiss_'.$id_bact2;
     print "$prog_tag cmd:$cmd, line ".__LINE__."\n";
     if($b_sge)     {  push @pids, run_capture::run_capture_sge_prefix(  $cmd, __LINE__, $prefix);            }
@@ -792,10 +792,12 @@ else
     wait_processes_finished(\@pids);
     print(sprintf("%-${display_width_before_column_ok}s", "$prog_tag R'MES computation for $id_bact1 and $id_bact2, ran").": ok\n");
 
+    print("RMES_out_expected_f1:$RMES_out_expected_f1, line ".__LINE__."\n");
+
     # verif that files exist, check syntax
     foreach($RMES_out_expected_f1, $RMES_out_expected_f2)
     {
-    	-e $_ or die "$prog_tag [Error] $_ file does not exist, maybe $prefix failed, line ".__LINE__."\n";
+        -e $_ or die("$prog_tag [Error] $_ file does not exist, maybe $prefix failed, line ".__LINE__."\n");
     }
     # --------------------------------------------------------
     
