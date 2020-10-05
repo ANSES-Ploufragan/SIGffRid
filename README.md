@@ -2,7 +2,7 @@
 
 ### Meaning of program name
 
-__SIG__ma __f__actor (binding sites) __f__inder using
+* __SIG__ma __f__actor (binding sites) __f__inder using
 __R__'MES to select __i__nput __d__ata.
 
 > SIGffRid name is mainly a recall to __SigR__ _Streptomyces coelicolor_
