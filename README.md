@@ -55,7 +55,7 @@ using CPAN (cpan install <module>)
 - XML::DOM::XPath
 (you probably will need to run ```sudo cpan -f -i XML:DOM::XPath``` (to force install) to avoid some problem with BioPerl installation (due to testing failures))
 - BioPerl
-- SeqIO                (to extract data from GenBank files)
+- Bio::SeqIO                (to extract data from GenBank files)
 - IPC::System::Simple  (to run system command)
 - PerlIO::gzip         (to read write zip files)
 - Proc::Daemon
@@ -95,8 +95,8 @@ source ~/.bashrc
 ### Memory usage
 
 For a pair of bacterial genomes, __SIGffRid requires at 
-least 16 Gbytes (RAM)__ (for genomes of 4 Mbases). The memory 
-usage probably can go from 6 to 16 Gbytes for bacterial genomes
+least 36 GBytes (RAM)__ (for genomes of 4 Mbases). The memory 
+usage probably can go from 6 to 36 GBytes for bacterial genomes
 if you treat simultaneously 
 all the pairs of orthologues found in genomes as long as 8 
 Mbases (typically *Streptomyces coelicolor* and 
