@@ -1,0 +1,412 @@
+mots de longueur 4 et leur reverse complementaire#
+136 
+2
+4
+aaaa
+	 aaaa 
+	 tttt 
+aaac
+	 aaac 
+	 gttt 
+aaag
+	 aaag 
+	 cttt 
+aaat
+	 aaat 
+	 attt 
+aaca
+	 aaca 
+	 tgtt 
+aacc
+	 aacc 
+	 ggtt 
+aacg
+	 aacg 
+	 cgtt 
+aact
+	 aact 
+	 agtt 
+aaga
+	 aaga 
+	 tctt 
+aagc
+	 aagc 
+	 gctt 
+aagg
+	 aagg 
+	 cctt 
+aagt
+	 aagt 
+	 actt 
+aata
+	 aata 
+	 tatt 
+aatc
+	 aatc 
+	 gatt 
+aatg
+	 aatg 
+	 catt 
+aatt
+	 aatt 
+	 aatt 
+acaa
+	 acaa 
+	 ttgt 
+acac
+	 acac 
+	 gtgt 
+acag
+	 acag 
+	 ctgt 
+acat
+	 acat 
+	 atgt 
+acca
+	 acca 
+	 tggt 
+accc
+	 accc 
+	 gggt 
+accg
+	 accg 
+	 cggt 
+acct
+	 acct 
+	 aggt 
+acga
+	 acga 
+	 tcgt 
+acgc
+	 acgc 
+	 gcgt 
+acgg
+	 acgg 
+	 ccgt 
+acgt
+	 acgt 
+	 acgt 
+acta
+	 acta 
+	 tagt 
+actc
+	 actc 
+	 gagt 
+actg
+	 actg 
+	 cagt 
+agaa
+	 agaa 
+	 ttct 
+agac
+	 agac 
+	 gtct 
+agag
+	 agag 
+	 ctct 
+agat
+	 agat 
+	 atct 
+agca
+	 agca 
+	 tgct 
+agcc
+	 agcc 
+	 ggct 
+agcg
+	 agcg 
+	 cgct 
+agct
+	 agct 
+	 agct 
+agga
+	 agga 
+	 tcct 
+aggc
+	 aggc 
+	 gcct 
+aggg
+	 aggg 
+	 ccct 
+agta
+	 agta 
+	 tact 
+agtc
+	 agtc 
+	 gact 
+agtg
+	 agtg 
+	 cact 
+ataa
+	 ataa 
+	 ttat 
+atac
+	 atac 
+	 gtat 
+atag
+	 atag 
+	 ctat 
+atat
+	 atat 
+	 atat 
+atca
+	 atca 
+	 tgat 
+atcc
+	 atcc 
+	 ggat 
+atcg
+	 atcg 
+	 cgat 
+atga
+	 atga 
+	 tcat 
+atgc
+	 atgc 
+	 gcat 
+atgg
+	 atgg 
+	 ccat 
+atta
+	 atta 
+	 taat 
+attc
+	 attc 
+	 gaat 
+attg
+	 attg 
+	 caat 
+caaa
+	 caaa 
+	 tttg 
+caac
+	 caac 
+	 gttg 
+caag
+	 caag 
+	 cttg 
+caca
+	 caca 
+	 tgtg 
+cacc
+	 cacc 
+	 ggtg 
+cacg
+	 cacg 
+	 cgtg 
+caga
+	 caga 
+	 tctg 
+cagc
+	 cagc 
+	 gctg 
+cagg
+	 cagg 
+	 cctg 
+cata
+	 cata 
+	 tatg 
+catc
+	 catc 
+	 gatg 
+catg
+	 catg 
+	 catg 
+ccaa
+	 ccaa 
+	 ttgg 
+ccac
+	 ccac 
+	 gtgg 
+ccag
+	 ccag 
+	 ctgg 
+ccca
+	 ccca 
+	 tggg 
+cccc
+	 cccc 
+	 gggg 
+cccg
+	 cccg 
+	 cggg 
+ccga
+	 ccga 
+	 tcgg 
+ccgc
+	 ccgc 
+	 gcgg 
+ccgg
+	 ccgg 
+	 ccgg 
+ccta
+	 ccta 
+	 tagg 
+cctc
+	 cctc 
+	 gagg 
+cgaa
+	 cgaa 
+	 ttcg 
+cgac
+	 cgac 
+	 gtcg 
+cgag
+	 cgag 
+	 ctcg 
+cgca
+	 cgca 
+	 tgcg 
+cgcc
+	 cgcc 
+	 ggcg 
+cgcg
+	 cgcg 
+	 cgcg 
+cgga
+	 cgga 
+	 tccg 
+cggc
+	 cggc 
+	 gccg 
+cgta
+	 cgta 
+	 tacg 
+cgtc
+	 cgtc 
+	 gacg 
+ctaa
+	 ctaa 
+	 ttag 
+ctac
+	 ctac 
+	 gtag 
+ctag
+	 ctag 
+	 ctag 
+ctca
+	 ctca 
+	 tgag 
+ctcc
+	 ctcc 
+	 ggag 
+ctga
+	 ctga 
+	 tcag 
+ctgc
+	 ctgc 
+	 gcag 
+ctta
+	 ctta 
+	 taag 
+cttc
+	 cttc 
+	 gaag 
+gaaa
+	 gaaa 
+	 tttc 
+gaac
+	 gaac 
+	 gttc 
+gaca
+	 gaca 
+	 tgtc 
+gacc
+	 gacc 
+	 ggtc 
+gaga
+	 gaga 
+	 tctc 
+gagc
+	 gagc 
+	 gctc 
+gata
+	 gata 
+	 tatc 
+gatc
+	 gatc 
+	 gatc 
+gcaa
+	 gcaa 
+	 ttgc 
+gcac
+	 gcac 
+	 gtgc 
+gcca
+	 gcca 
+	 tggc 
+gccc
+	 gccc 
+	 gggc 
+gcga
+	 gcga 
+	 tcgc 
+gcgc
+	 gcgc 
+	 gcgc 
+gcta
+	 gcta 
+	 tagc 
+ggaa
+	 ggaa 
+	 ttcc 
+ggac
+	 ggac 
+	 gtcc 
+ggca
+	 ggca 
+	 tgcc 
+ggcc
+	 ggcc 
+	 ggcc 
+ggga
+	 ggga 
+	 tccc 
+ggta
+	 ggta 
+	 tacc 
+gtaa
+	 gtaa 
+	 ttac 
+gtac
+	 gtac 
+	 gtac 
+gtca
+	 gtca 
+	 tgac 
+gtga
+	 gtga 
+	 tcac 
+gtta
+	 gtta 
+	 taac 
+taaa
+	 taaa 
+	 ttta 
+taca
+	 taca 
+	 tgta 
+taga
+	 taga 
+	 tcta 
+tata
+	 tata 
+	 tata 
+tcaa
+	 tcaa 
+	 ttga 
+tcca
+	 tcca 
+	 tgga 
+tcga
+	 tcga 
+	 tcga 
+tgaa
+	 tgaa 
+	 ttca 
+tgca
+	 tgca 
+	 tgca 
+ttaa
+	 ttaa 
+	 ttaa 

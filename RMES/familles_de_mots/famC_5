@@ -1,0 +1,1540 @@
+mots de longueur 5 et leur reverse complementaire#
+512 
+2
+5
+aaaaa
+	 aaaaa 
+	 ttttt 
+aaaac
+	 aaaac 
+	 gtttt 
+aaaag
+	 aaaag 
+	 ctttt 
+aaaat
+	 aaaat 
+	 atttt 
+aaaca
+	 aaaca 
+	 tgttt 
+aaacc
+	 aaacc 
+	 ggttt 
+aaacg
+	 aaacg 
+	 cgttt 
+aaact
+	 aaact 
+	 agttt 
+aaaga
+	 aaaga 
+	 tcttt 
+aaagc
+	 aaagc 
+	 gcttt 
+aaagg
+	 aaagg 
+	 ccttt 
+aaagt
+	 aaagt 
+	 acttt 
+aaata
+	 aaata 
+	 tattt 
+aaatc
+	 aaatc 
+	 gattt 
+aaatg
+	 aaatg 
+	 cattt 
+aaatt
+	 aaatt 
+	 aattt 
+aacaa
+	 aacaa 
+	 ttgtt 
+aacac
+	 aacac 
+	 gtgtt 
+aacag
+	 aacag 
+	 ctgtt 
+aacat
+	 aacat 
+	 atgtt 
+aacca
+	 aacca 
+	 tggtt 
+aaccc
+	 aaccc 
+	 gggtt 
+aaccg
+	 aaccg 
+	 cggtt 
+aacct
+	 aacct 
+	 aggtt 
+aacga
+	 aacga 
+	 tcgtt 
+aacgc
+	 aacgc 
+	 gcgtt 
+aacgg
+	 aacgg 
+	 ccgtt 
+aacgt
+	 aacgt 
+	 acgtt 
+aacta
+	 aacta 
+	 tagtt 
+aactc
+	 aactc 
+	 gagtt 
+aactg
+	 aactg 
+	 cagtt 
+aactt
+	 aactt 
+	 aagtt 
+aagaa
+	 aagaa 
+	 ttctt 
+aagac
+	 aagac 
+	 gtctt 
+aagag
+	 aagag 
+	 ctctt 
+aagat
+	 aagat 
+	 atctt 
+aagca
+	 aagca 
+	 tgctt 
+aagcc
+	 aagcc 
+	 ggctt 
+aagcg
+	 aagcg 
+	 cgctt 
+aagct
+	 aagct 
+	 agctt 
+aagga
+	 aagga 
+	 tcctt 
+aaggc
+	 aaggc 
+	 gcctt 
+aaggg
+	 aaggg 
+	 ccctt 
+aaggt
+	 aaggt 
+	 acctt 
+aagta
+	 aagta 
+	 tactt 
+aagtc
+	 aagtc 
+	 gactt 
+aagtg
+	 aagtg 
+	 cactt 
+aataa
+	 aataa 
+	 ttatt 
+aatac
+	 aatac 
+	 gtatt 
+aatag
+	 aatag 
+	 ctatt 
+aatat
+	 aatat 
+	 atatt 
+aatca
+	 aatca 
+	 tgatt 
+aatcc
+	 aatcc 
+	 ggatt 
+aatcg
+	 aatcg 
+	 cgatt 
+aatct
+	 aatct 
+	 agatt 
+aatga
+	 aatga 
+	 tcatt 
+aatgc
+	 aatgc 
+	 gcatt 
+aatgg
+	 aatgg 
+	 ccatt 
+aatgt
+	 aatgt 
+	 acatt 
+aatta
+	 aatta 
+	 taatt 
+aattc
+	 aattc 
+	 gaatt 
+aattg
+	 aattg 
+	 caatt 
+acaaa
+	 acaaa 
+	 tttgt 
+acaac
+	 acaac 
+	 gttgt 
+acaag
+	 acaag 
+	 cttgt 
+acaat
+	 acaat 
+	 attgt 
+acaca
+	 acaca 
+	 tgtgt 
+acacc
+	 acacc 
+	 ggtgt 
+acacg
+	 acacg 
+	 cgtgt 
+acact
+	 acact 
+	 agtgt 
+acaga
+	 acaga 
+	 tctgt 
+acagc
+	 acagc 
+	 gctgt 
+acagg
+	 acagg 
+	 cctgt 
+acagt
+	 acagt 
+	 actgt 
+acata
+	 acata 
+	 tatgt 
+acatc
+	 acatc 
+	 gatgt 
+acatg
+	 acatg 
+	 catgt 
+accaa
+	 accaa 
+	 ttggt 
+accac
+	 accac 
+	 gtggt 
+accag
+	 accag 
+	 ctggt 
+accat
+	 accat 
+	 atggt 
+accca
+	 accca 
+	 tgggt 
+acccc
+	 acccc 
+	 ggggt 
+acccg
+	 acccg 
+	 cgggt 
+accct
+	 accct 
+	 agggt 
+accga
+	 accga 
+	 tcggt 
+accgc
+	 accgc 
+	 gcggt 
+accgg
+	 accgg 
+	 ccggt 
+accgt
+	 accgt 
+	 acggt 
+accta
+	 accta 
+	 taggt 
+acctc
+	 acctc 
+	 gaggt 
+acctg
+	 acctg 
+	 caggt 
+acgaa
+	 acgaa 
+	 ttcgt 
+acgac
+	 acgac 
+	 gtcgt 
+acgag
+	 acgag 
+	 ctcgt 
+acgat
+	 acgat 
+	 atcgt 
+acgca
+	 acgca 
+	 tgcgt 
+acgcc
+	 acgcc 
+	 ggcgt 
+acgcg
+	 acgcg 
+	 cgcgt 
+acgct
+	 acgct 
+	 agcgt 
+acgga
+	 acgga 
+	 tccgt 
+acggc
+	 acggc 
+	 gccgt 
+acggg
+	 acggg 
+	 cccgt 
+acgta
+	 acgta 
+	 tacgt 
+acgtc
+	 acgtc 
+	 gacgt 
+acgtg
+	 acgtg 
+	 cacgt 
+actaa
+	 actaa 
+	 ttagt 
+actac
+	 actac 
+	 gtagt 
+actag
+	 actag 
+	 ctagt 
+actat
+	 actat 
+	 atagt 
+actca
+	 actca 
+	 tgagt 
+actcc
+	 actcc 
+	 ggagt 
+actcg
+	 actcg 
+	 cgagt 
+actct
+	 actct 
+	 agagt 
+actga
+	 actga 
+	 tcagt 
+actgc
+	 actgc 
+	 gcagt 
+actgg
+	 actgg 
+	 ccagt 
+actta
+	 actta 
+	 taagt 
+acttc
+	 acttc 
+	 gaagt 
+acttg
+	 acttg 
+	 caagt 
+agaaa
+	 agaaa 
+	 tttct 
+agaac
+	 agaac 
+	 gttct 
+agaag
+	 agaag 
+	 cttct 
+agaat
+	 agaat 
+	 attct 
+agaca
+	 agaca 
+	 tgtct 
+agacc
+	 agacc 
+	 ggtct 
+agacg
+	 agacg 
+	 cgtct 
+agact
+	 agact 
+	 agtct 
+agaga
+	 agaga 
+	 tctct 
+agagc
+	 agagc 
+	 gctct 
+agagg
+	 agagg 
+	 cctct 
+agata
+	 agata 
+	 tatct 
+agatc
+	 agatc 
+	 gatct 
+agatg
+	 agatg 
+	 catct 
+agcaa
+	 agcaa 
+	 ttgct 
+agcac
+	 agcac 
+	 gtgct 
+agcag
+	 agcag 
+	 ctgct 
+agcat
+	 agcat 
+	 atgct 
+agcca
+	 agcca 
+	 tggct 
+agccc
+	 agccc 
+	 gggct 
+agccg
+	 agccg 
+	 cggct 
+agcct
+	 agcct 
+	 aggct 
+agcga
+	 agcga 
+	 tcgct 
+agcgc
+	 agcgc 
+	 gcgct 
+agcgg
+	 agcgg 
+	 ccgct 
+agcta
+	 agcta 
+	 tagct 
+agctc
+	 agctc 
+	 gagct 
+agctg
+	 agctg 
+	 cagct 
+aggaa
+	 aggaa 
+	 ttcct 
+aggac
+	 aggac 
+	 gtcct 
+aggag
+	 aggag 
+	 ctcct 
+aggat
+	 aggat 
+	 atcct 
+aggca
+	 aggca 
+	 tgcct 
+aggcc
+	 aggcc 
+	 ggcct 
+aggcg
+	 aggcg 
+	 cgcct 
+aggga
+	 aggga 
+	 tccct 
+agggc
+	 agggc 
+	 gccct 
+agggg
+	 agggg 
+	 cccct 
+aggta
+	 aggta 
+	 tacct 
+aggtc
+	 aggtc 
+	 gacct 
+aggtg
+	 aggtg 
+	 cacct 
+agtaa
+	 agtaa 
+	 ttact 
+agtac
+	 agtac 
+	 gtact 
+agtag
+	 agtag 
+	 ctact 
+agtat
+	 agtat 
+	 atact 
+agtca
+	 agtca 
+	 tgact 
+agtcc
+	 agtcc 
+	 ggact 
+agtcg
+	 agtcg 
+	 cgact 
+agtga
+	 agtga 
+	 tcact 
+agtgc
+	 agtgc 
+	 gcact 
+agtgg
+	 agtgg 
+	 ccact 
+agtta
+	 agtta 
+	 taact 
+agttc
+	 agttc 
+	 gaact 
+agttg
+	 agttg 
+	 caact 
+ataaa
+	 ataaa 
+	 tttat 
+ataac
+	 ataac 
+	 gttat 
+ataag
+	 ataag 
+	 cttat 
+ataat
+	 ataat 
+	 attat 
+ataca
+	 ataca 
+	 tgtat 
+atacc
+	 atacc 
+	 ggtat 
+atacg
+	 atacg 
+	 cgtat 
+ataga
+	 ataga 
+	 tctat 
+atagc
+	 atagc 
+	 gctat 
+atagg
+	 atagg 
+	 cctat 
+atata
+	 atata 
+	 tatat 
+atatc
+	 atatc 
+	 gatat 
+atatg
+	 atatg 
+	 catat 
+atcaa
+	 atcaa 
+	 ttgat 
+atcac
+	 atcac 
+	 gtgat 
+atcag
+	 atcag 
+	 ctgat 
+atcat
+	 atcat 
+	 atgat 
+atcca
+	 atcca 
+	 tggat 
+atccc
+	 atccc 
+	 gggat 
+atccg
+	 atccg 
+	 cggat 
+atcga
+	 atcga 
+	 tcgat 
+atcgc
+	 atcgc 
+	 gcgat 
+atcgg
+	 atcgg 
+	 ccgat 
+atcta
+	 atcta 
+	 tagat 
+atctc
+	 atctc 
+	 gagat 
+atctg
+	 atctg 
+	 cagat 
+atgaa
+	 atgaa 
+	 ttcat 
+atgac
+	 atgac 
+	 gtcat 
+atgag
+	 atgag 
+	 ctcat 
+atgca
+	 atgca 
+	 tgcat 
+atgcc
+	 atgcc 
+	 ggcat 
+atgcg
+	 atgcg 
+	 cgcat 
+atgga
+	 atgga 
+	 tccat 
+atggc
+	 atggc 
+	 gccat 
+atggg
+	 atggg 
+	 cccat 
+atgta
+	 atgta 
+	 tacat 
+atgtc
+	 atgtc 
+	 gacat 
+atgtg
+	 atgtg 
+	 cacat 
+attaa
+	 attaa 
+	 ttaat 
+attac
+	 attac 
+	 gtaat 
+attag
+	 attag 
+	 ctaat 
+attca
+	 attca 
+	 tgaat 
+attcc
+	 attcc 
+	 ggaat 
+attcg
+	 attcg 
+	 cgaat 
+attga
+	 attga 
+	 tcaat 
+attgc
+	 attgc 
+	 gcaat 
+attgg
+	 attgg 
+	 ccaat 
+attta
+	 attta 
+	 taaat 
+atttc
+	 atttc 
+	 gaaat 
+atttg
+	 atttg 
+	 caaat 
+caaaa
+	 caaaa 
+	 ttttg 
+caaac
+	 caaac 
+	 gtttg 
+caaag
+	 caaag 
+	 ctttg 
+caaca
+	 caaca 
+	 tgttg 
+caacc
+	 caacc 
+	 ggttg 
+caacg
+	 caacg 
+	 cgttg 
+caaga
+	 caaga 
+	 tcttg 
+caagc
+	 caagc 
+	 gcttg 
+caagg
+	 caagg 
+	 ccttg 
+caata
+	 caata 
+	 tattg 
+caatc
+	 caatc 
+	 gattg 
+caatg
+	 caatg 
+	 cattg 
+cacaa
+	 cacaa 
+	 ttgtg 
+cacac
+	 cacac 
+	 gtgtg 
+cacag
+	 cacag 
+	 ctgtg 
+cacca
+	 cacca 
+	 tggtg 
+caccc
+	 caccc 
+	 gggtg 
+caccg
+	 caccg 
+	 cggtg 
+cacga
+	 cacga 
+	 tcgtg 
+cacgc
+	 cacgc 
+	 gcgtg 
+cacgg
+	 cacgg 
+	 ccgtg 
+cacta
+	 cacta 
+	 tagtg 
+cactc
+	 cactc 
+	 gagtg 
+cactg
+	 cactg 
+	 cagtg 
+cagaa
+	 cagaa 
+	 ttctg 
+cagac
+	 cagac 
+	 gtctg 
+cagag
+	 cagag 
+	 ctctg 
+cagca
+	 cagca 
+	 tgctg 
+cagcc
+	 cagcc 
+	 ggctg 
+cagcg
+	 cagcg 
+	 cgctg 
+cagga
+	 cagga 
+	 tcctg 
+caggc
+	 caggc 
+	 gcctg 
+caggg
+	 caggg 
+	 ccctg 
+cagta
+	 cagta 
+	 tactg 
+cagtc
+	 cagtc 
+	 gactg 
+cataa
+	 cataa 
+	 ttatg 
+catac
+	 catac 
+	 gtatg 
+catag
+	 catag 
+	 ctatg 
+catca
+	 catca 
+	 tgatg 
+catcc
+	 catcc 
+	 ggatg 
+catcg
+	 catcg 
+	 cgatg 
+catga
+	 catga 
+	 tcatg 
+catgc
+	 catgc 
+	 gcatg 
+catgg
+	 catgg 
+	 ccatg 
+catta
+	 catta 
+	 taatg 
+cattc
+	 cattc 
+	 gaatg 
+ccaaa
+	 ccaaa 
+	 tttgg 
+ccaac
+	 ccaac 
+	 gttgg 
+ccaag
+	 ccaag 
+	 cttgg 
+ccaca
+	 ccaca 
+	 tgtgg 
+ccacc
+	 ccacc 
+	 ggtgg 
+ccacg
+	 ccacg 
+	 cgtgg 
+ccaga
+	 ccaga 
+	 tctgg 
+ccagc
+	 ccagc 
+	 gctgg 
+ccagg
+	 ccagg 
+	 cctgg 
+ccata
+	 ccata 
+	 tatgg 
+ccatc
+	 ccatc 
+	 gatgg 
+cccaa
+	 cccaa 
+	 ttggg 
+cccac
+	 cccac 
+	 gtggg 
+cccag
+	 cccag 
+	 ctggg 
+cccca
+	 cccca 
+	 tgggg 
+ccccc
+	 ccccc 
+	 ggggg 
+ccccg
+	 ccccg 
+	 cgggg 
+cccga
+	 cccga 
+	 tcggg 
+cccgc
+	 cccgc 
+	 gcggg 
+cccgg
+	 cccgg 
+	 ccggg 
+cccta
+	 cccta 
+	 taggg 
+ccctc
+	 ccctc 
+	 gaggg 
+ccgaa
+	 ccgaa 
+	 ttcgg 
+ccgac
+	 ccgac 
+	 gtcgg 
+ccgag
+	 ccgag 
+	 ctcgg 
+ccgca
+	 ccgca 
+	 tgcgg 
+ccgcc
+	 ccgcc 
+	 ggcgg 
+ccgcg
+	 ccgcg 
+	 cgcgg 
+ccgga
+	 ccgga 
+	 tccgg 
+ccggc
+	 ccggc 
+	 gccgg 
+ccgta
+	 ccgta 
+	 tacgg 
+ccgtc
+	 ccgtc 
+	 gacgg 
+cctaa
+	 cctaa 
+	 ttagg 
+cctac
+	 cctac 
+	 gtagg 
+cctag
+	 cctag 
+	 ctagg 
+cctca
+	 cctca 
+	 tgagg 
+cctcc
+	 cctcc 
+	 ggagg 
+cctcg
+	 cctcg 
+	 cgagg 
+cctga
+	 cctga 
+	 tcagg 
+cctgc
+	 cctgc 
+	 gcagg 
+cctta
+	 cctta 
+	 taagg 
+ccttc
+	 ccttc 
+	 gaagg 
+cgaaa
+	 cgaaa 
+	 tttcg 
+cgaac
+	 cgaac 
+	 gttcg 
+cgaag
+	 cgaag 
+	 cttcg 
+cgaca
+	 cgaca 
+	 tgtcg 
+cgacc
+	 cgacc 
+	 ggtcg 
+cgacg
+	 cgacg 
+	 cgtcg 
+cgaga
+	 cgaga 
+	 tctcg 
+cgagc
+	 cgagc 
+	 gctcg 
+cgata
+	 cgata 
+	 tatcg 
+cgatc
+	 cgatc 
+	 gatcg 
+cgcaa
+	 cgcaa 
+	 ttgcg 
+cgcac
+	 cgcac 
+	 gtgcg 
+cgcag
+	 cgcag 
+	 ctgcg 
+cgcca
+	 cgcca 
+	 tggcg 
+cgccc
+	 cgccc 
+	 gggcg 
+cgccg
+	 cgccg 
+	 cggcg 
+cgcga
+	 cgcga 
+	 tcgcg 
+cgcgc
+	 cgcgc 
+	 gcgcg 
+cgcta
+	 cgcta 
+	 tagcg 
+cgctc
+	 cgctc 
+	 gagcg 
+cggaa
+	 cggaa 
+	 ttccg 
+cggac
+	 cggac 
+	 gtccg 
+cggag
+	 cggag 
+	 ctccg 
+cggca
+	 cggca 
+	 tgccg 
+cggcc
+	 cggcc 
+	 ggccg 
+cggga
+	 cggga 
+	 tcccg 
+cgggc
+	 cgggc 
+	 gcccg 
+cggta
+	 cggta 
+	 taccg 
+cggtc
+	 cggtc 
+	 gaccg 
+cgtaa
+	 cgtaa 
+	 ttacg 
+cgtac
+	 cgtac 
+	 gtacg 
+cgtag
+	 cgtag 
+	 ctacg 
+cgtca
+	 cgtca 
+	 tgacg 
+cgtcc
+	 cgtcc 
+	 ggacg 
+cgtga
+	 cgtga 
+	 tcacg 
+cgtgc
+	 cgtgc 
+	 gcacg 
+cgtta
+	 cgtta 
+	 taacg 
+cgttc
+	 cgttc 
+	 gaacg 
+ctaaa
+	 ctaaa 
+	 tttag 
+ctaac
+	 ctaac 
+	 gttag 
+ctaag
+	 ctaag 
+	 cttag 
+ctaca
+	 ctaca 
+	 tgtag 
+ctacc
+	 ctacc 
+	 ggtag 
+ctaga
+	 ctaga 
+	 tctag 
+ctagc
+	 ctagc 
+	 gctag 
+ctata
+	 ctata 
+	 tatag 
+ctatc
+	 ctatc 
+	 gatag 
+ctcaa
+	 ctcaa 
+	 ttgag 
+ctcac
+	 ctcac 
+	 gtgag 
+ctcag
+	 ctcag 
+	 ctgag 
+ctcca
+	 ctcca 
+	 tggag 
+ctccc
+	 ctccc 
+	 gggag 
+ctcga
+	 ctcga 
+	 tcgag 
+ctcgc
+	 ctcgc 
+	 gcgag 
+ctcta
+	 ctcta 
+	 tagag 
+ctctc
+	 ctctc 
+	 gagag 
+ctgaa
+	 ctgaa 
+	 ttcag 
+ctgac
+	 ctgac 
+	 gtcag 
+ctgca
+	 ctgca 
+	 tgcag 
+ctgcc
+	 ctgcc 
+	 ggcag 
+ctgga
+	 ctgga 
+	 tccag 
+ctggc
+	 ctggc 
+	 gccag 
+ctgta
+	 ctgta 
+	 tacag 
+ctgtc
+	 ctgtc 
+	 gacag 
+cttaa
+	 cttaa 
+	 ttaag 
+cttac
+	 cttac 
+	 gtaag 
+cttca
+	 cttca 
+	 tgaag 
+cttcc
+	 cttcc 
+	 ggaag 
+cttga
+	 cttga 
+	 tcaag 
+cttgc
+	 cttgc 
+	 gcaag 
+cttta
+	 cttta 
+	 taaag 
+ctttc
+	 ctttc 
+	 gaaag 
+gaaaa
+	 gaaaa 
+	 ttttc 
+gaaac
+	 gaaac 
+	 gtttc 
+gaaca
+	 gaaca 
+	 tgttc 
+gaacc
+	 gaacc 
+	 ggttc 
+gaaga
+	 gaaga 
+	 tcttc 
+gaagc
+	 gaagc 
+	 gcttc 
+gaata
+	 gaata 
+	 tattc 
+gaatc
+	 gaatc 
+	 gattc 
+gacaa
+	 gacaa 
+	 ttgtc 
+gacac
+	 gacac 
+	 gtgtc 
+gacca
+	 gacca 
+	 tggtc 
+gaccc
+	 gaccc 
+	 gggtc 
+gacga
+	 gacga 
+	 tcgtc 
+gacgc
+	 gacgc 
+	 gcgtc 
+gacta
+	 gacta 
+	 tagtc 
+gactc
+	 gactc 
+	 gagtc 
+gagaa
+	 gagaa 
+	 ttctc 
+gagac
+	 gagac 
+	 gtctc 
+gagca
+	 gagca 
+	 tgctc 
+gagcc
+	 gagcc 
+	 ggctc 
+gagga
+	 gagga 
+	 tcctc 
+gaggc
+	 gaggc 
+	 gcctc 
+gagta
+	 gagta 
+	 tactc 
+gataa
+	 gataa 
+	 ttatc 
+gatac
+	 gatac 
+	 gtatc 
+gatca
+	 gatca 
+	 tgatc 
+gatcc
+	 gatcc 
+	 ggatc 
+gatga
+	 gatga 
+	 tcatc 
+gatgc
+	 gatgc 
+	 gcatc 
+gatta
+	 gatta 
+	 taatc 
+gcaaa
+	 gcaaa 
+	 tttgc 
+gcaac
+	 gcaac 
+	 gttgc 
+gcaca
+	 gcaca 
+	 tgtgc 
+gcacc
+	 gcacc 
+	 ggtgc 
+gcaga
+	 gcaga 
+	 tctgc 
+gcagc
+	 gcagc 
+	 gctgc 
+gcata
+	 gcata 
+	 tatgc 
+gccaa
+	 gccaa 
+	 ttggc 
+gccac
+	 gccac 
+	 gtggc 
+gccca
+	 gccca 
+	 tgggc 
+gcccc
+	 gcccc 
+	 ggggc 
+gccga
+	 gccga 
+	 tcggc 
+gccgc
+	 gccgc 
+	 gcggc 
+gccta
+	 gccta 
+	 taggc 
+gcgaa
+	 gcgaa 
+	 ttcgc 
+gcgac
+	 gcgac 
+	 gtcgc 
+gcgca
+	 gcgca 
+	 tgcgc 
+gcgcc
+	 gcgcc 
+	 ggcgc 
+gcgga
+	 gcgga 
+	 tccgc 
+gcgta
+	 gcgta 
+	 tacgc 
+gctaa
+	 gctaa 
+	 ttagc 
+gctac
+	 gctac 
+	 gtagc 
+gctca
+	 gctca 
+	 tgagc 
+gctcc
+	 gctcc 
+	 ggagc 
+gctga
+	 gctga 
+	 tcagc 
+gctta
+	 gctta 
+	 taagc 
+ggaaa
+	 ggaaa 
+	 tttcc 
+ggaac
+	 ggaac 
+	 gttcc 
+ggaca
+	 ggaca 
+	 tgtcc 
+ggacc
+	 ggacc 
+	 ggtcc 
+ggaga
+	 ggaga 
+	 tctcc 
+ggata
+	 ggata 
+	 tatcc 
+ggcaa
+	 ggcaa 
+	 ttgcc 
+ggcac
+	 ggcac 
+	 gtgcc 
+ggcca
+	 ggcca 
+	 tggcc 
+ggccc
+	 ggccc 
+	 gggcc 
+ggcga
+	 ggcga 
+	 tcgcc 
+ggcta
+	 ggcta 
+	 tagcc 
+gggaa
+	 gggaa 
+	 ttccc 
+gggac
+	 gggac 
+	 gtccc 
+gggca
+	 gggca 
+	 tgccc 
+gggga
+	 gggga 
+	 tcccc 
+gggta
+	 gggta 
+	 taccc 
+ggtaa
+	 ggtaa 
+	 ttacc 
+ggtac
+	 ggtac 
+	 gtacc 
+ggtca
+	 ggtca 
+	 tgacc 
+ggtga
+	 ggtga 
+	 tcacc 
+ggtta
+	 ggtta 
+	 taacc 
+gtaaa
+	 gtaaa 
+	 tttac 
+gtaac
+	 gtaac 
+	 gttac 
+gtaca
+	 gtaca 
+	 tgtac 
+gtaga
+	 gtaga 
+	 tctac 
+gtata
+	 gtata 
+	 tatac 
+gtcaa
+	 gtcaa 
+	 ttgac 
+gtcac
+	 gtcac 
+	 gtgac 
+gtcca
+	 gtcca 
+	 tggac 
+gtcga
+	 gtcga 
+	 tcgac 
+gtcta
+	 gtcta 
+	 tagac 
+gtgaa
+	 gtgaa 
+	 ttcac 
+gtgca
+	 gtgca 
+	 tgcac 
+gtgga
+	 gtgga 
+	 tccac 
+gtgta
+	 gtgta 
+	 tacac 
+gttaa
+	 gttaa 
+	 ttaac 
+gttca
+	 gttca 
+	 tgaac 
+gttga
+	 gttga 
+	 tcaac 
+gttta
+	 gttta 
+	 taaac 
+taaaa
+	 taaaa 
+	 tttta 
+taaca
+	 taaca 
+	 tgtta 
+taaga
+	 taaga 
+	 tctta 
+taata
+	 taata 
+	 tatta 
+tacaa
+	 tacaa 
+	 ttgta 
+tacca
+	 tacca 
+	 tggta 
+tacga
+	 tacga 
+	 tcgta 
+tacta
+	 tacta 
+	 tagta 
+tagaa
+	 tagaa 
+	 ttcta 
+tagca
+	 tagca 
+	 tgcta 
+tagga
+	 tagga 
+	 tccta 
+tataa
+	 tataa 
+	 ttata 
+tatca
+	 tatca 
+	 tgata 
+tatga
+	 tatga 
+	 tcata 
+tcaaa
+	 tcaaa 
+	 tttga 
+tcaca
+	 tcaca 
+	 tgtga 
+tcaga
+	 tcaga 
+	 tctga 
+tccaa
+	 tccaa 
+	 ttgga 
+tccca
+	 tccca 
+	 tggga 
+tccga
+	 tccga 
+	 tcgga 
+tcgaa
+	 tcgaa 
+	 ttcga 
+tcgca
+	 tcgca 
+	 tgcga 
+tctaa
+	 tctaa 
+	 ttaga 
+tctca
+	 tctca 
+	 tgaga 
+tgaaa
+	 tgaaa 
+	 tttca 
+tgaca
+	 tgaca 
+	 tgtca 
+tgcaa
+	 tgcaa 
+	 ttgca 
+tgcca
+	 tgcca 
+	 tggca 
+tggaa
+	 tggaa 
+	 ttcca 
+tgtaa
+	 tgtaa 
+	 ttaca 
+ttaaa
+	 ttaaa 
+	 tttaa 
+ttcaa
+	 ttcaa 
+	 ttgaa 

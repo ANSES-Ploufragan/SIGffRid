@@ -1,0 +1,9 @@
+*.0
+*rmes*tableau
+*rmes-fam
+test_*
+debug*
+deprecated
+deprecated/*
+cluster_errors/*[0-9]
+cluster_errors/*.sh

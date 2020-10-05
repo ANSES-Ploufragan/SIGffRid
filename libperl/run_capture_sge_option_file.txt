@@ -1,0 +1,27 @@
+#!/bin/bash
+
+# Les commentraires qui commencent par '#$' sont
+# interpretes par SGE comme des options en ligne
+
+# Shell a utiliser pour l'execution du job
+#$ -S /bin/bash
+
+# Export de toutes les variables d'environnement
+#$ -V
+
+# Utilisateur a avertir
+#$ -M fabrice.touzain@anses.fr
+
+# Avertir au debut (b)egin, a la fin (e)nd, a echec (a)bort et
+# a la suspension (s)uspend d'un job
+#$ -m ea
+
+# Sortie standard
+# Vous pouvez utiliser '-j y' pour ajouter stderr avec stdout
+#$ -o /home/touzain/Documents/scripts/cluster_errors/
+
+# Sortie d'erreur (ne pas utiliser cette option avec '-j y')
+#$ -e /home/touzain/Documents/scripts/cluster_errors/
+
+# Lance la commande depuis le repertoire ou est lance le script
+#$ -cwd

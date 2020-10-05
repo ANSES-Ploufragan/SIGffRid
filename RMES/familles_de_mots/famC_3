@@ -1,0 +1,100 @@
+mots de longueur 3 et leur reverse complementaire#
+32 
+2
+3
+aaa
+	 aaa 
+	 ttt 
+aac
+	 aac 
+	 gtt 
+aag
+	 aag 
+	 ctt 
+aat
+	 aat 
+	 att 
+aca
+	 aca 
+	 tgt 
+acc
+	 acc 
+	 ggt 
+acg
+	 acg 
+	 cgt 
+act
+	 act 
+	 agt 
+aga
+	 aga 
+	 tct 
+agc
+	 agc 
+	 gct 
+agg
+	 agg 
+	 cct 
+ata
+	 ata 
+	 tat 
+atc
+	 atc 
+	 gat 
+atg
+	 atg 
+	 cat 
+caa
+	 caa 
+	 ttg 
+cac
+	 cac 
+	 gtg 
+cag
+	 cag 
+	 ctg 
+cca
+	 cca 
+	 tgg 
+ccc
+	 ccc 
+	 ggg 
+ccg
+	 ccg 
+	 cgg 
+cga
+	 cga 
+	 tcg 
+cgc
+	 cgc 
+	 gcg 
+cta
+	 cta 
+	 tag 
+ctc
+	 ctc 
+	 gag 
+gaa
+	 gaa 
+	 ttc 
+gac
+	 gac 
+	 gtc 
+gca
+	 gca 
+	 tgc 
+gcc
+	 gcc 
+	 ggc 
+gga
+	 gga 
+	 tcc 
+gta
+	 gta 
+	 tac 
+taa
+	 taa 
+	 tta 
+tca
+	 tca 
+	 tga 
