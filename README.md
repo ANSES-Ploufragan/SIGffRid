@@ -2,8 +2,8 @@
 
 ### Meaning of program name
 
-__SIG__ma __f__actor (binding sites) __f__inder using
-__R__MES to select __i__nput __d__ata.
+<b>SIG</b>ma <b>f</b>actor (binding sites) <b>f</b>inder using
+<b>R</b>MES to select <b>i</b>nput <b>d</b>ata.
 
 > SIGffRid name is mainly a recall to __SigR__ _Streptomyces coelicolor_
 > Sigma factor binding sites, well known and easily detectable
