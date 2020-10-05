@@ -266,7 +266,7 @@ sites in bacterial genomes using comparative approach and
 biologically driven statistics** (article). *BMC Bioinformatics* 2008, 
 9(1):73. [DOI:10.1186/1471-2105-9-73](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-73)                   
 
-Questions and comments should be sent to *fabrice.touzain [@] anses.fr*
+Questions and comments should be sent to *fabrice.touzain [@] anses.fr* (or in github of course, especially for issues).
 
 ## FINANCIAL SUPPORT
 
