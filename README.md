@@ -235,15 +235,15 @@ for instance. Check bacterial ID to use in the downloaded file from MBGD databas
 (must be the same in GenBank file at the beginning of gene loci: <b>SCO</b>0001).
 
 * Results folder (here ```sigffrid_res/```) must exist before you run the program.
-* use ```-filterout_16SrRNA_res``` option to __automatically get 16S/18S RNA sequences__ and __filter out motifs in results__ which __match 16S/18S RNA sequences__ and __have a strong conservation of their position compared to the +1 START sites__ of the downstream genes.
-
+* Use ```-filterout_16SrRNA_res``` option to __automatically get 16S/18S RNA sequences__ and __filter out motifs in results__ which __match 16S/18S RNA sequences__ and __have a strong conservation of their position compared to the +1 START sites__ of the downstream genes.
+* Use ```-cluster_mod 'sge' ``` option to use SGE scheduler.
 
 CAUTION: ensure the GenBank file you downloaded for each close bacteria __contains__
 the __DNA sequence__ (it does not by default in NCBI web page when you request
 GenBank file).
 
 CAUTION 2: the two bacteria you compare must be closely phylogenetically related,
-bu not too close (ideally, maybe 97 or 98% of identity when you align their 16S RNA).
+but not too close (ideally, maybe 97 or 98% of identity when you align their 16S RNA).
 
 ## RESULTS
 
