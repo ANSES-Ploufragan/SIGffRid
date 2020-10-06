@@ -229,9 +229,9 @@ perl sigffrid_cmd_line.pl  \
     -id_bact1 sco -id_bact2 sav -MBGD_f MBGD_file/cluster_SCO_SAV.tab \
     -res_dir sigffrid_res/
 ```
-(```sco``` is for _Streptomyces coelicolor_ A3(2) bacteria gene IDs)
-(```sav``` is for _Streptomyces avermitilis_  bacteria gene IDs)
-for instance. Check bacterial ID to use in the downloaded file from MBGD database.
+```sco``` is for _Streptomyces coelicolor_ A3(2) bacteria gene IDs,
+```sav``` is for _Streptomyces avermitilis_  bacteria gene IDs,
+for instance. Check bacterial ID to use in the downloaded file from MBGD database
 (must be the same in GenBank file at the beginning of gene loci: <b>SCO</b>0001).
 
 Results folder (here ```sigffrid_res/```) must exist before you run the program.
@@ -241,7 +241,7 @@ the __DNA sequence__ (it does not by default in NCBI web page when you request
 GenBank file).
 
 CAUTION 2: the two bacteria you compare must be closely phylogenetically related,
-bu not too close (ideally, maybe 97 or 98% of identity when you compare 16S RNA).
+bu not too close (ideally, maybe 97 or 98% of identity when you align their 16S RNA).
 
 ## RESULTS
 
