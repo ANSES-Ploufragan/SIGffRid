@@ -20,9 +20,6 @@ two phylogenetically close bacterial genomes (typically,
 showing 16S RNA identity of 97%, with the highest possible number 
 of orthologous sigma factors).
 
-SIGffRid runs on UNIX/Linux systems (tested on
-Ubuntu 16.04 LTS and [Solus 4.1](https://getsol.us/home/)). 
-
 ## PRINCIPLE
 
 SIGffRid performs a simultaneous analysis of pairs of promoter regions of orthologous genes in Bacterial species. SIGffRid uses a prior identification of slighly over-represented 3 to 7 letters long words in the whole genomes of the two bacterial genomes, as selection criteria for potential -35 and -10 boxes using R'MES program.
@@ -46,12 +43,19 @@ Using our program on some bacteria, we suggest not to consider the motifs with h
 
 ## REQUIREMENT
 
-SIGffRid 1.0 (command line version) needs:
+### System
+
+SIGffRid runs on UNIX/Linux systems (tested on
+Ubuntu 16.04 LTS and [Solus 4.1](https://getsol.us/home/)). 
+
+### Dependencies
+
+SIGffRid needs:
 - Perl (tested with version >= 5.8.8)
 
-install YAML
+Install YAML
 
-using CPAN (cpan install <module>)
+Install, using CPAN (cpan install <module>)
 - XML::DOM::XPath
 (you probably will need to run ```sudo cpan -f -i XML:DOM::XPath``` (to force install) to avoid some problem with BioPerl installation (due to testing failures))
 - BioPerl
@@ -63,11 +67,12 @@ using CPAN (cpan install <module>)
 - Cwd                  (for current directory)
 - Statistics::Basic
 
-install rmes-3.1:
+Install rmes-3.1:
 - git clone https://forgemia.inra.fr/sophie.schbath/rmes.git
 (with rmes.fomat)
 - R'MES documentation is provided here: [rmes_doc](http://migale.jouy.inra.fr/?q=rmes)
 
+### Configuration
 
 add to your .bashrc
 ```
