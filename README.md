@@ -219,8 +219,29 @@ Type in terminal
 ```
 perl sigffrid_cmd_line.pl
 ```
-and enter.
+and enter to get help.
 
+To run genomes analysis, you can type:
+```
+perl sigffrid_cmd_line.pl  \
+    -gb_f1 ../ref_genomes/bact1_chr_complete_genome.gb \
+    -gb_f2 ../ref_genomes/bact2_chr_complete_genome.gb \
+    -id_bact1 sco -id_bact2 sav -MBGD_f MBGD_file/cluster_SCO_SAV.tab \
+    -res_dir sigffrid_res/
+```
+(```sco``` is for _Streptomyces coelicolor_ A3(2) bacteria gene IDs)
+(```sav``` is for _Streptomyces avermitilis_  bacteria gene IDs)
+for instance. Check bacterial ID to use in the downloaded file from MBGD database.
+(must be the same in GenBank file at the beginning of gene loci: <b>SCO</b>0001).
+
+Results folder (here ```sigffrid_res/```) must exist before you run the program.
+
+CAUTION: ensure the GenBank file you downloaded for each close bacteria __contains__
+the __DNA sequence__ (it does not by default in NCBI web page when you request
+GenBank file).
+
+CAUTION 2: the two bacteria you compare must be closely phylogenetically related,
+bu not too close (ideally, maybe 97 or 98% of identity when you compare 16S RNA).
 
 ## RESULTS
 
