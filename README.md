@@ -95,8 +95,8 @@ source ~/.bashrc
 ### Memory usage
 
 For a pair of bacterial genomes, __SIGffRid requires at 
-least 36 GBytes (RAM)__ (for genomes of 4 Mbases). The memory 
-usage probably can go from 6 to 36 GBytes for bacterial genomes
+least 64 GBytes (RAM)__ (for genomes of 4 Mbases). The memory 
+usage probably can go from 6 to 51 GBytes for bacterial genomes
 if you treat simultaneously 
 all the pairs of orthologues found in genomes as long as 8 
 Mbases (typically *Streptomyces coelicolor* and 
