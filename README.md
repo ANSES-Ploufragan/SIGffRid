@@ -73,7 +73,7 @@ add to your .bashrc
 ```
 export SIGFFRID_DIR=path_to_your_sigffrid_global_directory
 export ANSES_SCRIPTS_DIR=path_to_your_sigffrid_global_directory
-export ANSES_USER_MAIL=fabrice.touzain@anses.fr
+export ANSES_USER_MAIL=yourmail@server.com
 ```
 and if using **SGE** (replace long by the name of the SGE queue in which you want to submit jobs)
 ```
@@ -89,6 +89,10 @@ then type
 ```
 source ~/.bashrc
 ```
+
+Note: depending on SGE/SLURM parameters, mails relative to 
+start/stop/errors will be sent at the mail address provided in 
+```ANSES_USER_MAIL``` environment variable.
 
 ## WARNINGS
 
